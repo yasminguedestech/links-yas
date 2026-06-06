@@ -7,7 +7,7 @@ Reúne os principais links (portfólio, LinkedIn, GitHub e e-mail) em uma págin
 - Portfólio: https://yasminguedes.vercel.app
 - LinkedIn: https://linkedin.com/in/yasmin-guedes-0101
 - GitHub: https://github.com/yasminguedestech
-- E-mail: yasminguedestech@gmail.com
+- E-mail: yasminguedstech@gmail.com
 - 📍 São Paulo, SP
 
 ---
@@ -92,6 +92,6 @@ Se preferir não usar base64, salve a imagem (ex.: `perfil.jpg`) na raiz do proj
 ## 📬 Contato
 
 **Yasmin Guedes** — Data Analyst
-📧 yasminguedestech@gmail.com · 📍 São Paulo, SP
+📧 yasminguedstech@gmail.com · 📍 São Paulo, SP
 
 > Obrigada por fazer parte desta etapa da minha trajetória. 💜
